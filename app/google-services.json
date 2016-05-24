@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "997283552813",
+    "project_id": "simple-login-124e5"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:997283552813:android:07d51bd7fd242edf",
+        "android_client_info": {
+          "package_name": "com.texocoyotl.ptd2googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "997283552813-hnam7pvp92ch0rrdit6dab1iurkrep1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.texocoyotl.ptd2googlelogin",
+            "certificate_hash": "4EB4DFEFAC35DC1D76E95EAC0278B189C89786A0"
+          }
+        },
+        {
+          "client_id": "997283552813-h6rg6toploqrdhmc88db33sd7o2cqotn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_BWMFiLVB9z_ZrkPIFfbKn4sbgMLleUM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
